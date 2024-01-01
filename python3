@@ -1,0 +1,6 @@
+./template/PYTHON3/.template.yml
+faas-cli new.
+./template/PYTHON3/Dockerfile
+  ./template/PYTHON3/HTTP/index.py
+  ./template/PYTHON3/handler/handler.py
+  ./template/PYTHON3/handler/packages.py
